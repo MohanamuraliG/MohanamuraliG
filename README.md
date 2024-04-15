@@ -8,7 +8,7 @@ Computer Science Engineering Student
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: ...
 - 📫 How to reach me :
-  <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]https://(www.linkedin.com/in/mohanamurali-g89415/)
 
 <!---
 MohanamuraliG/MohanamuraliG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
